@@ -1,10 +1,4 @@
 
-
-
-
-
-Here I uploaded necessary codes and circuits of my organized projects
-
 <h1 align="center">Hola 👋, This is Nahian Mugdho</h1>
 <h3 align="center">An Engineering Student from Rajshahi University of Engineering and Technology,Bangladesh</h3>
 
