@@ -12,9 +12,9 @@ Here I uploaded necessary codes and circuits of my organized projects
 
 - 🔭 Field of Interest **Wireless Communication,Artificial intelligence**
 
-- 🌱 I’m currently learning **Python,ML**
+- 🌱 I’m currently learning **DS,ML**
 
-- 💬 Ask me about **Arduino ,ESP 32 ,ESP 8266**
+- 💬 Ask me about **Arduino ,ESP 32 ,ESP 8266,Mathmatica,Python,Micropython**
 
 - 📫 How to reach me **nahianmugdho@gmail.com**
 
