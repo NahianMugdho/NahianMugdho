@@ -14,7 +14,7 @@ Here I uploaded necessary codes and circuits of my organized projects
 
 - 🌱 I’m currently learning **DS,ML**
 
-- 💬 Ask me about **Arduino ,ESP 32 ,ESP 8266,Mathmatica,Python,Micropython**
+- 💬 Ask me about **Arduino ,ESP 32 ,ESP 8266,Mathematica,Python,Micropython**
 
 - 📫 How to reach me **nahianmugdho@gmail.com**
 
