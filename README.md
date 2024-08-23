@@ -4,9 +4,9 @@
 <h3 align="center">IoT Enthusiast | Wireless Communication | Microcontrollers | BSc. in ETE, RUET | Let's Drive Innovation Together </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahianmugdho&label=Profile%20views&color=0e75b6&style=flat" alt="nahianmugdho" /> </p>
 
-- 🔭 Field of Interest **Wireless Communication, Artificial intelligence, IOT**
+- 🔭 Field of Interest **Wireless Communication, Artificial intelligence, IoT, Web Development**
 
-- 🌱 I’m currently learning **DS,ML**
+- 🌱 I’m currently learning **DS,ML , Web Dev**
 
 - 💬 Ask me about **Arduino ,ESP 32 ,ESP 8266,Mathematica,Python,Micropython,PCB**
 
