@@ -20,6 +20,26 @@
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.wolfram.com/mathematica/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" alt="mathematica" width="40" height="40"/> </a></a><a href="https://easyeda.com/" target="_blank" rel="noreferrer"> <img src="https://easyeda.com/images/easyeda-thumbnail.png?id=d5ed1fe5930602975df1" alt="easyeda" width="40" height="40"/> </a>
 </a><a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer"> <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" alt="packet-tracer" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="CSS" width="40" height="40"/> </a>
+<!-- MongoDB -->
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
+</a>
+
+<!-- React -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/>
+</a>
+
+<!-- Node.js -->
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40" height="40"/>
+</a>
+
+<!-- Igor Pro -->
+<a href="https://www.wavemetrics.com/products/igor-pro" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Igor_Pro_logo.png" alt="Igor Pro" width="40" height="40"/>
+</a>
+
   
  <!-- <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> -->
   
