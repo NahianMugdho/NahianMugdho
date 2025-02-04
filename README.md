@@ -36,9 +36,7 @@
 </a>
 
 <!-- Igor Pro -->
-<a href="https://www.wavemetrics.com/products/igor-pro" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Igor_Pro_logo.png" alt="Igor Pro" width="40" height="40"/>
-</a>
+
 
   
  <!-- <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> -->
