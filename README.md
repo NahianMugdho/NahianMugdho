@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DS,ML , Web Dev**
 
-- 💬 Ask me about **Arduino ,ESP 32 ,ESP 8266,Mathematica,Python,Micropython,PCB**
+- 💬 Ask me about **Arduino ,ESP 32 ,ESP 8266,Mathematica,Python,Micropython,PCB , Front End**
 
 - 📫 How to reach me **nahianmugdho@gmail.com**
 
