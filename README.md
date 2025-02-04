@@ -36,6 +36,15 @@
 </a>
 
 <!-- Igor Pro -->
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>
+</a>
+
+<!-- Igor Pro -->
+<a href="https://www.wavemetrics.com/products/igor-pro" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Igor_Pro_logo.png" alt="Igor Pro" width="40" height="40"/>
+</a>
 
 
   
