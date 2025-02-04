@@ -60,6 +60,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahianmugdho&show_icons=true&locale=en&layout=compact" alt="nahianmugdho" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahianmugdho&show_icons=true&locale=en" alt="nahianmugdho" /></p>
+![NahianMugdho's Stats](https://github-readme-stats.vercel.app/api?username=NahianMugdho&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahianmugdho&show_icons=true&locale=en" alt="nahianmugdho" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahianmugdho&" alt="nahianmugdho" /></p> 
