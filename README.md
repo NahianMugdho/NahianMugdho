@@ -42,7 +42,7 @@
 </a>
 
 <!-- Igor Pro -->
-<a href="https://www.wavemetrics.com/products/igor-pro" target="_blank" rel="noreferrer">
+<a href="https://www.wavemetrics.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Igor_Pro_logo.png" alt="Igor Pro" width="40" height="40"/>
 </a>
 
