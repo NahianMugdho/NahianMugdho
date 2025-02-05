@@ -1,4 +1,5 @@
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500">
+<br><br>
 <h1 align="center">Hola 👋, This is Nahian Mugdho</h1>
 <!--<h3 align="center">An Engineering Student from Rajshahi University of Engineering and Technology, Bangladesh</h3>-->
 <h3 align="center">IoT Enthusiast | Wireless Communication | Microcontrollers | Web Development| Data Science | BSc. in ETE, RUET | Let's Drive Innovation Together </h3>
