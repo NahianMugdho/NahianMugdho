@@ -47,6 +47,9 @@
   <img src="https://www.additive-net.de/images/software/waveMetrics/igorpro/v8/igorpro_v8_logo.png" alt="Igor Pro" width="40" height="40"/>
 </a>
 
+<a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4HEwBQUclFxttE13SM0PQg.png" alt="Igor Pro" width="40" height="40"/>
+</a>
 
   
  <!-- <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> -->
