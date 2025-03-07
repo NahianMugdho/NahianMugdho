@@ -44,11 +44,11 @@
 
 <!-- Igor Pro -->
 <a href="https://www.wavemetrics.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.additive-net.de/images/software/waveMetrics/igorpro/v8/igorpro_v8_logo.png" alt="Igor Pro" width="40" height="40"/>
+  <img src="https://www.additive-net.de/images/software/waveMetrics/igorpro/v8/igorpro_v8_logo.png" alt="Igor Pro" width="60" height="40"/>
 </a>
 
 <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4HEwBQUclFxttE13SM0PQg.png" alt="Igor Pro" width="40" height="40"/>
+  <img src="https://pbs.twimg.com/profile_images/730268134460903424/8WOgriUU_400x400.jpg" alt="Electron JS" width="40" height="40"/>
 </a>
 
   
