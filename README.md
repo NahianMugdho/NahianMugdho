@@ -50,7 +50,9 @@
 <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
   <img src="https://pbs.twimg.com/profile_images/730268134460903424/8WOgriUU_400x400.jpg" alt="Electron JS" width="40" height="40"/>
 </a>
-
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="40" height="40"/>
+</a>
   
  <!-- <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> -->
   
