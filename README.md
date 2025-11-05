@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DS,ML , Web Dev**
 
-- 💬 Ask me about **Arduino ,ESP 32 ,ESP 8266,Mathematica,Python,Micropython,PCB , Full Stach , SQA , IOT**
+- 💬 Ask me about **Arduino ,ESP 32 ,ESP 8266,Mathematica,Python,Micropython,PCB , Full Stack , SQA , IOT**
 
 - 📫 How to reach me **nahianmugdho@gmail.com**
 
