@@ -2,14 +2,14 @@
 <br><br>
 <h1 align="center">Hola 👋, This is Nahian Mugdho</h1>
 <!--<h3 align="center">An Engineering Student from Rajshahi University of Engineering and Technology, Bangladesh</h3>-->
-<h3 align="center">IoT Enthusiast | Wireless Communication | Microcontrollers | Web Development| Data Science | BSc. in ETE, RUET | Let's Drive Innovation Together </h3>
+<h3 align="center">IoT Enthusiast | Wireless Communication | Microcontrollers | Web Development| Artificial Intelligence | BSc. in ETE, RUET | Let's Drive Innovation Together </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahianmugdho&label=Profile%20views&color=0e75b6&style=flat" alt="nahianmugdho" /> </p>
 
-- 🔭 Field of Interest **Wireless Communication, Artificial Intelligence, IoT, Web Development. SQA. DevOps**
+- 🔭 Field of Interest **Wireless Communication, Artificial Intelligence, IoT, Software Development, Webapp **
+<!-- Igor Pro -->
+<!--  - 🌱 I’m currently learning **Machine Learning** -->
 
-- 🌱 I’m currently learning **DS,ML , Web Dev**
-
-- 💬 Ask me about **Arduino ,ESP 32 ,ESP 8266,Mathematica,Python,Micropython,PCB , Full Stack , SQA , IOT**
+- 💬 Ask me about **IOT, AI, Software, webapp**
 
 - 📫 How to reach me **nahianmugdho@gmail.com**
 
