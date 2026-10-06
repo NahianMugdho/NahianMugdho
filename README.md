@@ -62,6 +62,8 @@
   </a><a href="https://micropython.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MicroPython_new_logo.svg" alt="micropython" width="40" height="40"/> </a> 
 <a href="https://mqtt.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Mqtt-hor.svg" alt="mqtt" width="40" height="40"/>
+</a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" width="40" height="40"/>
 </a>
  <!-- Rust -->
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
