@@ -64,21 +64,17 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Mqtt-hor.svg" alt="mqtt" width="40" height="40"/>
 </a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
   <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" width="40" height="40"/>
-</a>
- <!-- Rust -->
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" width="40" height="40"/>
-</a>
-
-<!-- MySQL -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+</a><!-- MySQL --><a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</a>
-
-<!-- C++ -->
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+</a><!-- C++ --><a href="https://isocpp.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </a> 
+ <!-- Rust 
+
+-->
+
+
+
 
 </p>
 
