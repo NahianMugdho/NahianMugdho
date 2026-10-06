@@ -82,30 +82,8 @@
 
 ![NahianMugdho's Stats](https://github-readme-stats.vercel.app/api?username=NahianMugdho&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![NahianMugdho's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NahianMugdho&theme=vue-dark&hide_border=true)
+<!--![NahianMugdho's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NahianMugdho&theme=vue-dark&hide_border=true)-->
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahianmugdho&show_icons=true&locale=en" alt="nahianmugdho" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahianmugdho&" alt="nahianmugdho" /></p> -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NahianMugdho&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NahianMugdho&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="180"/>
-</p>
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NahianMugdho&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=6" />
-</p>
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NahianMugdho&theme=vue&hide_border=true&area=true" />
-</p>
-
-### 🚀 Always Learning, Always Building
-
-<p align="center">
-  <i>Building with code, exploring new technologies, and turning ideas into real-world solutions.</i>
-</p>
 
