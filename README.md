@@ -74,6 +74,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40"/>
 </a><!-- JMeter --><a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/apachejmeter/D22128" alt="JMeter" width="40" height="40"/>
+</a><!-- Espressif --><a href="https://www.espressif.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/espressif/E7352C" alt="Espressif" width="40" height="40"/>
 </a>
 
  <!-- Rust 
