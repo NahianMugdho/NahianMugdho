@@ -72,7 +72,20 @@
  <!-- Rust 
 
 -->
+<!-- Tauri -->
+<a href="https://tauri.app/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" alt="Tauri" width="40" height="40"/>
+</a>
 
+<!-- Playwright -->
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40"/>
+</a>
+
+<!-- JMeter -->
+<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/apachejmeter/D22128" alt="JMeter" width="40" height="40"/>
+</a>
 
 
 
