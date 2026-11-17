@@ -78,11 +78,8 @@
   <img src="https://cdn.simpleicons.org/espressif/E7352C" alt="Espressif" width="40" height="40"/>
 </a><!-- Debian --><a href="https://www.debian.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="40" height="40"/>
-</a><!-- Fritzing --><a href="https://fritzing.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fritzing/fritzing-original.svg" alt="Fritzing" width="40" height="40"/>
-</a><!-- Proteus --><a href="https://www.labcenter.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proteus.svg" alt="Proteus" width="40" height="40"/>
 </a>
+
 
  <!-- Rust 
 
